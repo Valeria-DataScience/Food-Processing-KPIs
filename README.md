@@ -1,14 +1,14 @@
-# **Operational KPIs for Meat Trimming Efficiency**
+# Operational KPIs for Meat Trimming Efficiency
 Data-Driven Insights from a Meat Processing Facility in the Southern U.S.
 
-**Overview**
+## Project summary
 
 This project analyzes operational data from a meat processing plant located in the Southern region of the United States. 
 The focus is on evaluating employee performance and labor cost efficiency in the meat trimming process — a core task where precision, speed, and cost control are essential.
 
 By calculating and visualizing key performance indicators (KPIs), this analysis provides actionable insights for plant managers, operations analysts, and decision-makers looking to optimize labor productivity, reduce waste, and track output trends over time.
 
-**Business context**
+## Business context
 
 Meat trimming is a labor-intensive step in the meat processing workflow. Employees manually remove fat, connective tissue, and bone from primal cuts to produce market-ready products such as steaks, roasts, or ground meat.
 
@@ -21,7 +21,7 @@ Given the high cost of labor and the variability of yield by employee, processin
 
 These metrics are critical for cost control, workforce planning, and incentive systems in facilities that serve domestic and export markets.
 
-**KPIs Implemented**
+## KPIs implemented
 
 | KPI   | Description |
 | ------------- | ------------- |
@@ -34,12 +34,12 @@ These metrics are critical for cost control, workforce planning, and incentive s
 	
 
 
-**Tableau Dashboard**
+## Tableau dashboard
 
 An interactive Tableau Public dashboard has been created to explore the KPIs visually and intuitively.
 
 🔗 View the Live Dashboard on Tableau Public
-(link)
+(https://public.tableau.com/app/profile/valeria.burgos/viz/Meatprocessingplant-KPIs/Dashboard1)
 
 The dashboard includes:
 
@@ -49,7 +49,7 @@ The dashboard includes:
 - Year-over-year comparisons
 
 
-**Tech Stack**
+## Tech stack
 
 Python 3.11+
 - pandas, numpy – data processing
@@ -59,7 +59,7 @@ Tableau Public
 - Used to create dynamic and shareable KPI dashboards)
 
 
-**Ideal Use Cases**
+## Ideal use cases
 
 - Plant managers optimizing labor costs and staffing
 - HR designing performance-based incentive programs
