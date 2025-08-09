@@ -21,6 +21,8 @@ Given the high cost of labor and the variability of yield by employee, processin
 
 These metrics are critical for cost control, workforce planning, and incentive systems in facilities that serve domestic and export markets.
 
+![Activity](meat_trimming.jpg)
+
 ## KPIs implemented
 
 | KPI   | Description |
