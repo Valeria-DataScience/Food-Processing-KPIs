@@ -68,4 +68,6 @@ Tableau Public
 - Operational analysts and consultants in food processing
 - Companies looking to integrate data-driven insights into meat production
 
-
+## Disclaimer
+This project is adapted from a professional assignment. To maintain client confidentiality, the original data and results are not shared here.  
+All datasets have been replaced with simulated or publicly available sources, and the code is provided solely to demonstrate the methodology and technical approach.
